@@ -1,2 +1,10 @@
-main()
-pipe lining of ci/cd
+pipeline {
+agent any {
+
+stages {
+stage ()
+}
+
+
+}
+}
